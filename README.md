@@ -4,7 +4,7 @@ society”, is a major concern in modern societies. While many times confused wi
 it is a complex, multidimensional, social phenomenon that can severely impact the quality of life of
 those who are deprived. For banking, Financial Inclusion, or the area of finance focused on giving
 access to financial services to those who, mostly due to being deprived in different areas, is a key
-focus of modern regulatory efforts. In this coursework, we will use our knowledge of deep learning
+focus of modern regulatory efforts. In this project, we will use our knowledge of deep learning
 to better understand how living conditions in an area, as shown by LIDAR images, can impact
 deprivation indexes. The seven deprivation indexes that are commonly measured for a geographical
 area are:
